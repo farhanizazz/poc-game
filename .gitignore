@@ -1,0 +1,28 @@
+# macOS metadata
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Xcode build products
+/build/
+/DerivedData/
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+*.ipa
+
+# Xcode settings specific to an individual developer
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager local build state
+.build/
+.swiftpm/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
